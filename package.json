@@ -1,0 +1,21 @@
+{
+  "name": "sincap-sorgu-bot-altyapi",
+  "version": "0.0.1",
+  "description": "Sincap#1337 Tarafından Hazırlanmış Boş Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Sincap#1337",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "common-tags": "^1.8.2",
+    "discord": "^0.8.2",
+    "discord.js": "^13.12.0",
+    "fera.db": "^1.0.5",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "slash": "^5.0.0"
+  }
+}
